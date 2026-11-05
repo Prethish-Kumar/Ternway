@@ -1,6 +1,6 @@
 # Ternway
 
-Ternway is a planned fast, full-featured API testing client and Postman alternative, with a built-in load balancer.
+Ternway is a planned fast, full-featured API testing client and Postman alternative, with built-in load testing inspired by k6.
 
 ## Project status
 
